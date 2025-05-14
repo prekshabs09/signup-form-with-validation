@@ -10,8 +10,6 @@ This is a basic sign-up form built using **HTML**, **CSS**, and **JavaScript**. 
 
 ## Technologies Used
 
--HTML
-
--CSS
-
--Javascript
+- HTML
+- CSS
+- Javascript
