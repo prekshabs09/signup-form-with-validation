@@ -1,0 +1,74 @@
+/* Reset and background styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Container styling for the signup form */
+  .signup-container {
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 350px;
+  }
+  
+  /* Heading styling */
+  .signup-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Each form group */
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  /* Label styling */
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  /* Input field styling */
+  .form-group input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
+  /* Effect for inputs */
+  .form-group input:focus {
+    border-color: #0077cc;
+    outline: none;
+  }
+  
+  /* Submit button styling */
+  .btn-submit {
+    width: 100%;
+    background-color: #0077cc;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  /* Hover effect on button */
+  .btn-submit:hover {
+    background-color: #005fa3;
+  }
+  
+  /* Error message styling */
+  .error {
+    color: red;
+    font-size: 0.85em;
+  }
+  
