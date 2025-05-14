@@ -1,14 +1,15 @@
-#Sign-Up Form with Validation
-This is a basic sign-up form built using HTML, CSS, and JavaScript. It validates the user's Name, Email, and Phone Number before submission.
+# Sign-Up Form with Validation
 
-Features
-Validates Name, Email, and Phone Number.
-Shows error messages if the input is incorrect.
-Ensures all fields are filled before submission.
+This is a basic sign-up form built using **HTML**, **CSS**, and **JavaScript**. It validates the user's **Name**, **Email**, and **Phone Number** before submission.
 
-Technologies Used
-HTML for the form structure.
+## Features
 
-CSS for styling.
+- Validates **Name**, **Email**, and **Phone Number**.
+- Shows error messages if the input is incorrect.
+- Ensures all fields are filled before submission.
 
-JavaScript for validation.
+## Technologies Used
+
+-HTML
+-CSS
+-Javascript
